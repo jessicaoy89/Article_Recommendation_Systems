@@ -1,5 +1,5 @@
 # Article_Recommendation_Systems
-Studied data collections of user and article records to make rank-based, collaborative-based, and svd recommendations for users
+###### Studied data collections of user and article records to make rank-based, collaborative-based, and svd recommendations for users
 
 ## Table of Contents:
 - [Installation](#installation)
